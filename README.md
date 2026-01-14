@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hi, I’m Dnyaneshwar Mali 👨‍💻<br>I’m a Computer Science student passionate about problem-solving, software development, and learning how real-world systems work.<br><br>💻 Currently focusing on DSA (C++), DATA SCIENCE, and Web Development<br><br>🚀 Actively preparing for SWE / SDE internships<br><br>🧠 Interested in backend development, databases, and system design<br><br>📚 Learning consistently through LeetCode, projects, and hands-on practice<br><br>🔧 Comfortable with Git & GitHub for version control<br><br>I enjoy breaking down problems, understanding concepts deeply, and writing clean, efficient code.<br>Always open to learning, improving, and collaborating.
+Hi, I’m Dnyaneshwar Mali 👨‍💻<br>I’m a Mechanical enigineering student with minor in Computer Science  passionate about problem-solving, software development, and learning how real-world systems work.<br><br>💻 Currently focusing on DSA (C++), DATA SCIENCE, and Web Development<br><br>🚀 Actively preparing for SWE / SDE internships<br><br>🧠 Interested in backend development, databases, and system design<br><br>📚 Learning consistently through LeetCode, projects, and hands-on practice<br><br>🔧 Comfortable with Git & GitHub for version control<br><br>I enjoy breaking down problems, understanding concepts deeply, and writing clean, efficient code.<br>Always open to learning, improving, and collaborating.
 
 
 ## 🌐 Socials:
