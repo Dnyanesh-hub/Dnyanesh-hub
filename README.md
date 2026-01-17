@@ -22,7 +22,8 @@ Comfortable with **Git & GitHub** and driven by continuous learning and problem-
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnyanesh-hub&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnyanesh-hub&hide_title=true)
+
 
 
 
