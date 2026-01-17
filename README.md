@@ -19,6 +19,8 @@ Comfortable with **Git & GitHub** and driven by continuous learning and problem-
 ![](https://github-readme-stats.vercel.app/api?username=dnyanesh-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dnyanesh-hub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh-hub&show_icons=true&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnyanesh-hub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
