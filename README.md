@@ -1,5 +1,4 @@
 
-
 ### 👋 Hi, I’m Dnyaneshwar Mali
 
 Mechanical Engineering undergraduate (minor in Computer Science) transitioning into software engineering.  
