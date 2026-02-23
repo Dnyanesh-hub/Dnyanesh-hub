@@ -24,14 +24,13 @@ Comfortable with **Git & GitHub** and driven by continuous learning and problem-
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dnyanesh-hub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dnyanesh-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dnyanesh-hub&icon=0&color=0)](https://visitcount.itsvg.in)
