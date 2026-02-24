@@ -83,9 +83,6 @@ Aspiring Software Engineer | Backend & DSA Enthusiast
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/dnyanesh-hub/dnyanesh-hub/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
