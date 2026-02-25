@@ -75,16 +75,14 @@ Aspiring Software Engineer | Backend & DSA Enthusiast
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh-hub&layout=compact&theme=react&hide_border=true"/>
 </p>
 
----
 
 ## 📈 Contribution Activity Graph
 
 ![Dnyaneshwar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnyanesh-hub&theme=react-dark)
 
----
 
 
----
+
 
 <p align="center">
 ⚡ <b>Consistency > Motivation</b>
