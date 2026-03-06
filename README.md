@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Mali</h1>
 
 <p align="center">
@@ -55,6 +54,14 @@ Aspiring Software Engineer | Backend & DSA Enthusiast
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### 📊 Data Science & Analytics
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/seaborn-%2300A3E0.svg?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### ☁️ Tools & Deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -75,14 +82,13 @@ Aspiring Software Engineer | Backend & DSA Enthusiast
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh-hub&layout=compact&theme=react&hide_border=true"/>
 </p>
 
+---
 
 ## 📈 Contribution Activity Graph
 
 ![Dnyaneshwar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnyanesh-hub&theme=react-dark)
 
-
-
-
+---
 
 <p align="center">
 ⚡ <b>Consistency > Motivation</b>
