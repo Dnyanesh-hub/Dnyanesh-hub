@@ -88,7 +88,6 @@ Aspiring Software Engineer | Backend & DSA Enthusiast
 
 ![Dnyaneshwar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnyanesh-hub&theme=react-dark)
 
----
 
 <p align="center">
 ⚡ <b>Consistency > Motivation</b>
