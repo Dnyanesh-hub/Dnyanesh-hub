@@ -4,7 +4,6 @@
 Mechanical Engineering Undergraduate (Minor in Computer Science) <br/>
 Aspiring Software Engineer | Backend & DSA Enthusiast
 </p>
-
 ---
 
 ## 🚀 About Me
