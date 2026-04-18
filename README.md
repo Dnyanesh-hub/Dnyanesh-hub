@@ -16,14 +16,12 @@ Mechanical Engineering Undergraduate (Minor in Computer Science) <br/>
 ## 🚀 About Me
 
 <p align="center">
-
-🎓 Mechanical Engineering student transitioning into **Software Engineering** <br/>
-💻 Focused on **Data Structures & Algorithms (C++)**, Backend Development & Data Science <br/>
-📈 Actively solving problems on **LeetCode** and building real-world projects <br/>
-🧠 Interested in **System Design, Databases & Scalable Backend Systems** <br/>
-🤝 Preparing for **SDE / SWE Internship Opportunities** <br/>
-🔥 Strong believer in **consistency and continuous learning**
-
+🎓 Mechanical Engineering student transitioning into <b>Software Engineering</b> <br/>
+💻 Focused on <b>Data Structures & Algorithms (C++)</b>, Backend Development & Data Science <br/>
+📈 Actively solving problems on <b>LeetCode</b> and building real-world projects <br/>
+🧠 Interested in <b>System Design, Databases & Scalable Backend Systems</b> <br/>
+🤝 Preparing for <b>SDE / SWE Internship Opportunities</b> <br/>
+🔥 Strong believer in <b>consistency and continuous learning</b>
 </p>
 
 <p align="center">
@@ -104,14 +102,6 @@ Mechanical Engineering Undergraduate (Minor in Computer Science) <br/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyanesh-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
