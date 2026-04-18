@@ -15,14 +15,20 @@ Mechanical Engineering Undergraduate (Minor in Computer Science) <br/>
 
 ## 🚀 About Me
 
-- 🎓 Mechanical Engineering student transitioning into **Software Engineering**
-- 💻 Focused on **Data Structures & Algorithms (C++)**, Backend Development & Data Science
-- 📈 Actively solving problems on **LeetCode** and building real-world projects
-- 🧠 Interested in **System Design, Databases & Scalable Backend Systems**
-- 🤝 Preparing for **SDE / SWE Internship Opportunities**
-- 🔥 Strong believer in **consistency and continuous learning**
+<p align="center">
 
-> ⚡ *Consistency > Motivation*
+🎓 Mechanical Engineering student transitioning into **Software Engineering** <br/>
+💻 Focused on **Data Structures & Algorithms (C++)**, Backend Development & Data Science <br/>
+📈 Actively solving problems on **LeetCode** and building real-world projects <br/>
+🧠 Interested in **System Design, Databases & Scalable Backend Systems** <br/>
+🤝 Preparing for **SDE / SWE Internship Opportunities** <br/>
+🔥 Strong believer in **consistency and continuous learning**
+
+</p>
+
+<p align="center">
+⚡ <b>Consistency > Motivation</b>
+</p>
 
 ---
 
@@ -39,43 +45,53 @@ Mechanical Engineering Undergraduate (Minor in Computer Science) <br/>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 👨‍💻 Programming
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p align="center">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
 ### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
-![EJS](https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ### 📊 Data Science & Analytics
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/seaborn-00A3E0?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/seaborn-00A3E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ### ☁️ Tools & Deployment
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -102,9 +118,11 @@ Mechanical Engineering Undergraduate (Minor in Computer Science) <br/>
 
 ## 🎯 Current Focus
 
-- 🔥 Mastering **DSA for interviews**
-- ⚙️ Building **scalable backend projects**
-- ☁️ Learning **cloud deployment (AWS)**
+<p align="center">
+🔥 Mastering <b>DSA for interviews</b> <br/>
+⚙️ Building <b>scalable backend projects</b> <br/>
+☁️ Learning <b>cloud deployment (AWS)</b>
+</p>
 
 ---
 
