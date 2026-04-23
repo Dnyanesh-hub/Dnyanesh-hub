@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Mali</h1>
 
 <p align="center">
-Mechanical Engineering Undergraduate (Minor in Computer Science) <br/>
+Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <b>Aspiring Software Engineer | Backend Developer | DSA Enthusiast</b>
 </p>
 
