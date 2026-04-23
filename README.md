@@ -115,6 +115,11 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 </p>
 
 ---
+## 💡 Philosophy
+
+- Write clean, scalable code
+- Focus on fundamentals over frameworks
+- Consistency beats intensity
 
 <p align="center">
 💡 <b>Building today for the systems I'll design tomorrow.</b>
