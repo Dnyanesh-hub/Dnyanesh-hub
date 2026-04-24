@@ -8,7 +8,7 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Orbitron&size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;DSA+Focused;Building+Real+World+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Orbitron&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;DSA+Focused;Building+Strong+Fundamentals;Always+Learning" />
 </p>
 
 ---
@@ -17,11 +17,10 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 
 <p align="center">
 🎓 Mechanical Engineering student transitioning into <b>Software Engineering</b> <br/>
-💻 Focused on <b>Data Structures & Algorithms (C++)</b>, Backend Development & Data Science <br/>
-📈 Actively solving problems on <b>LeetCode</b> and building real-world projects <br/>
-🧠 Interested in <b>System Design, Databases & Scalable Backend Systems</b> <br/>
-🤝 Preparing for <b>SDE / SWE Internship Opportunities</b> <br/>
-🔥 Strong believer in <b>consistency and continuous learning</b>
+💻 Focused on <b>Data Structures & Algorithms (C++)</b> and Backend Development <br/>
+📈 Actively solving problems and improving problem-solving skills <br/>
+🧠 Interested in <b>System Design, Databases & Scalable Systems</b> <br/>
+🤝 Preparing for <b>SDE / SWE Internship Opportunities</b>
 </p>
 
 <p align="center">
@@ -47,48 +46,34 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 
 ### 👨‍💻 Programming
 <p align="center">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
 ### 🌐 Web Development
 <p align="center">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="center">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 📊 Data Science & Analytics
-<p align="center">
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/seaborn-00A3E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### ☁️ Tools & Deployment
+### ☁️ Tools
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -100,57 +85,23 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh-hub&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Contribution Highlights
-
-<p align="center">
-
-| 🔥 Longest Streak | 📅 Active Days | ⚡ Streak Period |
-|:-:|:-:|:-:|
-| **211 days** | **211 days** | Aug 28, 2024 → Mar 27, 2025 |
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Longest%20Streak-211%20Days-216e39?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active%20Days-211-30a14e?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Consistency-100%25-40c463?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 🌿 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyanesh-hub&theme=tokyo-night&hide_border=true&area=true&custom_title=Dnyaneshwar's%20Contribution%20Graph"/>
-</p>
-
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dnyanesh-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</p>
-
 ---
 
 ## 🎯 Current Focus
 
 <p align="center">
-🔥 Mastering <b>DSA for interviews</b> <br/>
-⚙️ Building <b>scalable backend projects</b> <br/>
-☁️ Learning <b>cloud deployment (AWS)</b>
+🔥 Mastering <b>DSA</b> <br/>
+⚙️ Strengthening <b>Backend Development</b> <br/>
+☁️ Learning <b>Cloud (AWS)</b>
 </p>
 
 ---
 
 ## 💡 Philosophy
 
-- Write clean, scalable code
-- Focus on fundamentals over frameworks
-- Consistency beats intensity
+- Focus on fundamentals over frameworks  
+- Write clean, scalable code  
+- Consistency beats intensity  
 
 ---
 
