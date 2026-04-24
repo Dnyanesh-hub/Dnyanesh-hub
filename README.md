@@ -106,6 +106,36 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 
 ---
 
+## 🏆 Contribution Highlights
+
+<p align="center">
+
+| 🔥 Longest Streak | 📅 Active Days | ⚡ Streak Period |
+|:-:|:-:|:-:|
+| **211 days** | **211 days** | Aug 28, 2024 → Mar 27, 2025 |
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Longest%20Streak-211%20Days-216e39?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active%20Days-211-30a14e?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Consistency-100%25-40c463?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🌿 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyanesh-hub&theme=tokyo-night&hide_border=true&area=true&custom_title=Dnyaneshwar's%20Contribution%20Graph"/>
+</p>
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dnyanesh-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 <p align="center">
@@ -115,12 +145,14 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 </p>
 
 ---
+
 ## 💡 Philosophy
 
 - Write clean, scalable code
 - Focus on fundamentals over frameworks
 - Consistency beats intensity
- ---
+
+---
 
 <p align="center">
 💡 <b>Building today for the systems I'll design tomorrow.</b>
