@@ -2,16 +2,19 @@
 
 <h1 align="center">Hi👋,I'm Dnyaneshwar Mali</h1>
 
+
 <p align="center">
 Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <b>Aspiring Software Engineer | Backend Developer | DSA Enthusiast</b>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Orbitron&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;DSA+Focused;Building+Strong+Fundamentals;Always+Learning" />
 </p>
 
 ---
+
 
 ## 🚀 About Me
 
@@ -23,11 +26,13 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 🤝 Preparing for <b>SDE / SWE Internship Opportunities</b>
 </p>
 
+
 <p align="center">
 ⚡ <b>Consistency > Motivation</b>
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -42,6 +47,7 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 
 ---
 
+
 ## 💻 Tech Stack
 
 ### 👨‍💻Programming
@@ -53,6 +59,7 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
+
 ### 🌐Web Development
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,6 +68,8 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
+
+
 ### ⚙️Backend & Databases
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -68,6 +77,7 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
 
 ### ☁️Tools
 <p align="center">
@@ -78,6 +88,7 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 
 ---
 
+
 ## 📊GitHub Stats
 
 <p align="center">
@@ -86,6 +97,7 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 </p>
 
 ---
+
 
 ## 🎯Current Focus
 
