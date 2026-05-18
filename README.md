@@ -7,17 +7,11 @@
 Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <b>Aspiring Software Engineer | Backend Developer | DSA Enthusiast</b>
 </p>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Orbitron&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;DSA+Focused;Building+Strong+Fundamentals;Always+Learning" />
 </p>
-
 ---
-
-
 ## 🚀 About Me
-
 <p align="center">
 🎓 Mechanical Engineering student transitioning into <b>Software Engineering</b> <br/>
 💻 Focused on <b>Data Structures & Algorithms (C++)</b> and Backend Development <br/>
@@ -25,17 +19,11 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 🧠 Interested in <b>System Design, Databases & Scalable Systems</b> <br/>
 🤝 Preparing for <b>SDE / SWE Internship Opportunities</b>
 </p>
-
-
 <p align="center">
 ⚡ <b>Consistency > Motivation</b>
 </p>
-
 ---
-
-
 ## 🌐 Connect With Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/dnyaneshwar-mali-b706622aa/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
@@ -44,12 +32,8 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
 </p>
-
 ---
-
-
 ## 💻 Tech Stack
-
 ### 👨‍💻Programming
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -58,8 +42,6 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
-
-
 ### 🌐Web Development
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -67,9 +49,6 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
-
-
-
 ### ⚙️Backend & Databases
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -77,18 +56,13 @@ Mechanical Engineering Undergraduate [Minor in Computer Science] <br/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
-
 ### ☁️Tools
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 ---
-
-
 ## 📊GitHub Stats
 
 <p align="center">
